@@ -549,16 +549,16 @@
 	}
 
 	blockquote {
-		border-left-color: #eeeeee;
+		border-left-color: #BD081D;
 	}
 
 	code {
 		background: rgba(220, 220, 220, 0.25);
-		border-color: #eeeeee;
+		border-color: #BD081D;
 	}
 
 	hr {
-		border-bottom-color: #eeeeee;
+		border-bottom-color: #BD081D;
 	}
 
 /* Box */
