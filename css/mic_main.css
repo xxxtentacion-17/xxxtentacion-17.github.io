@@ -1083,7 +1083,7 @@
 		}
 
 	.pagination a, .pagination span {
-		border-color: #eeeeee;
+		border-color: #BD081D;
 	}
 
 	.pagination a {
@@ -1101,17 +1101,17 @@
 			}
 
 		.pagination a.active {
-			background-color: #eeeeee;
+			background-color: #BD081D;
 		}
 
 	.pagination span {
-		color: #eeeeee;
+		color: #BD081D;
 	}
 
 /* Header */
 
 	#header {
-		color: #ffffff;
+		color: #BD081D;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
