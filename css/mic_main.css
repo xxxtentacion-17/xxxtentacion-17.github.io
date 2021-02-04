@@ -549,16 +549,16 @@
 	}
 
 	blockquote {
-		border-left-color: #BD081D;
+		border-left-color: #eeeeee;
 	}
 
 	code {
 		background: rgba(220, 220, 220, 0.25);
-		border-color: #BD081D;
+		border-color: #eeeeee;
 	}
 
 	hr {
-		border-bottom-color: #BD081D;
+		border-bottom-color: #eeeeee;
 	}
 
 /* Box */
@@ -1083,7 +1083,7 @@
 		}
 
 	.pagination a, .pagination span {
-		border-color: #BD081D;
+		border-color: #eeeeee;
 	}
 
 	.pagination a {
@@ -1101,17 +1101,17 @@
 			}
 
 		.pagination a.active {
-			background-color: #BD081D;
+			background-color: #eeeeee;
 		}
 
 	.pagination span {
-		color: #BD081D;
+		color: #eeeeee;
 	}
 
 /* Header */
 
 	#header {
-		color: #eeeeee;
+		color: #ffffff;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
